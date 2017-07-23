@@ -1,5 +1,5 @@
 .jumbotron{
-  background-color:darkblue; 
+  background-color:darkblue;
   background: url("https://static1.squarespace.com/static/57c88ba9b8a79b70d0bd3d0d/57c88cbaff7c506bc7aac7b9/5956f4084c8b039fc49fd176/1498871050525/20170603_131408-02.jpeg?format=1500w") center center;
 
   width:100%;
@@ -12,11 +12,12 @@
 }
 
 .mt-24{
-  margin-top: 24rem; 
+  margin-top: 24rem;
 }
 
 .box{
-    background:linear-gradient(AliceBlue,lightblue); 
+/*    background:linear-gradient(AliceBlue,lightblue); */
+background-color: black;
     opacity: 0.7;
 }
 
