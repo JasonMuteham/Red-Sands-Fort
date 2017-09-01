@@ -1,6 +1,6 @@
 .jumbotron{
   background-color:darkblue;
-  background: url("https://static1.squarespace.com/static/57c88ba9b8a79b70d0bd3d0d/57c88cbaff7c506bc7aac7b9/5956f4084c8b039fc49fd176/1498871050525/20170603_131408-02.jpeg?format=1500w") center center;
+  background: url("http://www.happyafloat.com/redsandsfort.com/images/red-sands-fort.jpg") center center;
 
   width:100%;
   height:auto;
@@ -17,10 +17,14 @@
 
 .box{
 /*    background:linear-gradient(AliceBlue,lightblue); */
-background-color: black;
-    opacity: 0.7;
+background-color: rgba(0,0,0,0.7);
 }
 
 footer{
   font-size:16px;
+}
+.content{
+ text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.7);
+  text-shadow: 0px 8px 13px rgba(0, 0, 0, 0.6);
+  text-shadow: 0px 18px 23px rgba(0, 0, 0, 0.6);
 }
